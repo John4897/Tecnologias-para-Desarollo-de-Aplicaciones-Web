@@ -1,2 +1,2 @@
 # Tecnologias-para-Desarollo-de-Aplicaciones-Web
-Programas realizados en una materia de la universidad
+Trabajos realizados en la universidad con HTML5, CSS, PHP
